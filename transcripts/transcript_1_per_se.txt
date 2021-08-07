@@ -1,0 +1,204 @@
+Parameters:
+Client Key      =       	<API KEY>
+Engine Key      =       	<Engine KEY>
+Query           =        per se
+Precision       =        0.9
+Google Search Results: 
+=======================
+Result 1
+[
+ URL:  https://www.thomaskeller.com/perseny
+ Title:  Per Se | Thomas Keller Restaurant Group
+ Summary:  Per Se Front Door. center. Per Se Front Door. center. Per Se Front Door. center. 
+Per Se Front Door. center. Per Se Front Door. center. Per Se Front Door. center.
+]
+Relevant(y/n): 
+yes
+Result 2
+[
+ URL:  https://en.wikipedia.org/wiki/Per_se
+ Title:  Per se - Wikipedia
+ Summary:  Per se may refer to: per se, a Latin phrase meaning "by itself" or "in itself". Illegal 
+per se, the legal usage in criminal and antitrust law; Negligence per se, legal ...
+]
+Relevant(y/n): 
+no
+Result 3
+[
+ URL:  https://www.merriam-webster.com/dictionary/perse
+ Title:  Perse | Definition of Perse by Merriam-Webster
+ Summary:  We generally use per se to distinguish between something in its narrow sense 
+and some larger thing that it represents. Thus, you may have no objection to ...
+]
+Relevant(y/n): 
+no
+Result 4
+[
+ URL:  https://www.nytimes.com/2016/01/13/dining/pete-wells-per-se-review.html
+ Title:  At Thomas Keller's Per Se, Slips and Stumbles - The New York Times
+ Summary:  Jan 12, 2016 ... Such is Per Se's mystique that I briefly wondered if the failure to bring her a new 
+napkin could have been intentional. The restaurant's identity, to ...
+]
+Relevant(y/n): 
+yes
+Result 5
+[
+ URL:  https://readable.com/blog/how-to-correctly-use-per-se/
+ Title:  Per se meaning, how to use per se in a sentence | Readable ...
+ Summary:  Aug 11, 2017 ... 'Per se' is a Latin term which literally means, “by itself”, “in itself” or “of itself”. This 
+means you're taking something out of its context to describe it ...
+]
+Relevant(y/n): 
+no
+Result 6
+[
+ URL:  https://en.wiktionary.org/wiki/per_se
+ Title:  per se - Wiktionary
+ Summary:  Borrowed from Latin per sē (“by itself”), from per (“by, through”) and sē (“itself, 
+himself, herself, themselves”). PronunciationEdit. (UK) IPA: /pəːˈseɪ/ ...
+]
+Relevant(y/n): 
+no
+Result 7
+[
+ URL:  https://www.facebook.com/perse/
+ Title:  Per Se - Home - New York, New York - Menu, Prices, Restaurant ...
+ Summary:  Per Se, New York, NY. 56279 likes · 257 talking about this · 50019 were here. 
+The official page of Thomas Keller's Per Se.
+]
+Relevant(y/n): 
+yes
+Result 8
+[
+ URL:  https://www.instagram.com/perseny/?hl=en
+ Title:  Per Se (@perseny) • Instagram photos and videos
+ Summary:  Per Se. Chef Thomas Keller's 3-Star Michelin restaurant overlooking Columbus 
+Circle & Central Park located in New York City. www.exploretock.com/perse.
+]
+Relevant(y/n): 
+yes
+Result 9
+[
+ URL:  https://www.findlaw.com/dui/laws-resources/per-se-dui-laws.html
+ Title:  Per Se DUI Laws - FindLaw
+ Summary:  Oct 25, 2018 ... Per se laws in DUI or DWI cases generally establish that once an individual is 
+shown to have a blood-alcohol concentration (BAC) at or above ...
+]
+Relevant(y/n): 
+no
+Result 10
+[
+ URL:  https://www.thefreedictionary.com/per+se
+ Title:  Per se - definition of per se by The Free Dictionary
+ Summary:  per se. A Latin phrase meaning by itself, used to mean intrinsically. Dictionary of 
+Unfamiliar Words by Diagram Group Copyright © 2008 by Diagram ...
+]
+Relevant(y/n): 
+no
+=======================
+FEEDBACK SUMMARY:
+Precision:  0.4
+Still below the desired precision of  0.9
+Indexing Results...
+Parameters:
+Client Key      =        AIzaSyBI5PMmM0fdGmoTIKgSpsRiEGvKHsG0kWs
+Engine Key      =        a0c2ee796890a2fd4
+Query           =        per se restaurant york
+Precision       =        0.9
+Google Search Results: 
+=======================
+Result 1
+[
+ URL:  https://www.thomaskeller.com/perseny
+ Title:  Per Se | Thomas Keller Restaurant Group
+ Summary:  Per Se Front Door. center. Per Se Front Door. center. Per Se Front Door. center. 
+Per Se Front Door. center. Per Se Front Door. center. Per Se Front Door. center.
+]
+Relevant(y/n): 
+yes
+Result 2
+[
+ URL:  https://www.nytimes.com/2016/01/13/dining/pete-wells-per-se-review.html
+ Title:  At Thomas Keller's Per Se, Slips and Stumbles - The New York Times
+ Summary:  Jan 12, 2016 ... With each fresh review, a restaurant has to earn its stars again. In its current form 
+and at its current price, Per Se struggled and failed to do this, ...
+]
+Relevant(y/n): 
+yes
+Result 3
+[
+ URL:  https://www.thomaskeller.com/new-york-new-york/per-se/restaurant
+ Title:  Restaurant | Thomas Keller Restaurant Group
+ Summary:  Opened in 2004, Per Se is Thomas Keller's acclaimed New York interpretation of 
+The French Laundry in the Time Warner Center at Columbus Circle. Designed ...
+]
+Relevant(y/n): 
+yes
+Result 4
+[
+ URL:  https://en.wikipedia.org/wiki/Per_Se_(restaurant)
+ Title:  Per Se (restaurant) - Wikipedia
+ Summary:  Per Se is a New American and French restaurant located on the fourth floor of the 
+Time Warner Center at 10 Columbus Circle in Manhattan in New York City, ...
+]
+Relevant(y/n): 
+yes
+Result 5
+[
+ URL:  https://www.thomaskeller.com/new-york-new-york/per-se/todays-menus
+ Title:  Today's Menus | Thomas Keller Restaurant Group
+ Summary:  Restaurants & Bakeries. Yountville; The French Laundry · Bouchon Bistro · 
+Bouchon Bakery · Ad Hoc + Addendum · La Calenda; New York; Per Se · 
+Bouchon ...
+]
+Relevant(y/n): 
+yes
+Result 6
+[
+ URL:  https://guide.michelin.com/en/new-york-state/new-york/restaurant/per-se
+ Title:  Per Se – New York - a MICHELIN Guide Restaurant
+ Summary:  Per Se – a Three MICHELIN Stars: Exceptional cuisine, worth a special journey! 
+restaurant in the 2020 MICHELIN Guide New York State. The MICHELIN ...
+]
+Relevant(y/n): 
+yes
+Result 7
+[
+ URL:  https://www.tripadvisor.com/Restaurant_Review-g60763-d425628-Reviews-Per_Se-New_York_City_New_York.html
+ Title:  PER SE, New York City - Hell's Kitchen - Menu, Prices & Restaurant ...
+ Summary:  Opened in 2004, Per Se is Thomas Keller's acclaimed New York interpretation of 
+The French Laundry in the Time Warner Center at Columbus Circle. Designed ...
+]
+Relevant(y/n): 
+yes
+Result 8
+[
+ URL:  https://www.townandcountrymag.com/leisure/arts-and-culture/a7685/thomas-keller-per-se-new-york-times-review/
+ Title:  Thomas Keller Responds to New York Times Review of Per Se ...
+ Summary:  Sep 8, 2016 ... "It was devastating." Keller is the chef and proprietor of two of the world's most 
+revered fine dining restaurants, as well as a handful of popular and ...
+]
+Relevant(y/n): 
+yes
+Result 9
+[
+ URL:  https://ny.eater.com/2020/3/15/21180839/per-se-jean-georges-mercado-little-spain-closure
+ Title:  Per Se, Jean-Georges Close, While Hudson Yards's Mercado Little ...
+ Summary:  Mar 15, 2020 ... The dining room at Per Se Daniel Krieger/Eater ... the latest to begin shuttering 
+their New York restaurants amid the novel coronavirus outbreak.
+]
+Relevant(y/n): 
+yes
+Result 10
+[
+ URL:  https://www.instagram.com/perseny/?hl=en
+ Title:  Per Se (@perseny) • Instagram photos and videos
+ Summary:  Per Se. Chef Thomas Keller's 3-Star Michelin restaurant overlooking Columbus 
+Circle & Central Park located in New York City. www.exploretock.com/perse.
+]
+Relevant(y/n): 
+yes
+=======================
+FEEDBACK SUMMARY:
+Precision:  1.0
+The desired precision levels have been attained!

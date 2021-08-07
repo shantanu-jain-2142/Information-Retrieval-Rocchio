@@ -1,0 +1,208 @@
+Parameters:
+Client Key      =        AIzaSyBI5PMmM0fdGmoTIKgSpsRiEGvKHsG0kWs
+Engine Key      =        a0c2ee796890a2fd4
+Query           =        cases
+Precision       =        0.9
+Google Search Results: 
+=======================
+Result 1
+[
+ URL:  https://www.cases.org/
+ Title:  CASES: Home
+ Summary:  From court and program offices in the Bronx, Brooklyn, and Manhattan, CASES 
+provides community-based alternatives to jail and prison. These programs 
+address ...
+]
+Relevant(y/n): 
+n
+Result 2
+[
+ URL:  https://www.worldometers.info/coronavirus/?utm_campaign=homeAdvegas1?
+ Title:  Coronavirus Update (Live): 109,199,442 Cases and 2,407,213 ...
+ Summary:  Live statistics and coronavirus news tracking the number of confirmed cases, 
+recovered patients, tests, and death toll due to the COVID-19 coronavirus from ...
+]
+Relevant(y/n): 
+yes
+Result 3
+[
+ URL:  https://www.dhs.wisconsin.gov/covid-19/cases.htm
+ Title:  COVID-19: Wisconsin Cases | Wisconsin Department of Health ...
+ Summary:  Confirmed cases by age group by date of symptom onset or diagnosis; Percent of 
+confirmed or probable cases by demographics and region; Percent of cases ...
+]
+Relevant(y/n): 
+yes
+Result 4
+[
+ URL:  https://www.courts.mo.gov/casenet/cases/nameSearch.do
+ Title:  Casenet
+ Summary: N/A
+]
+Relevant(y/n): 
+no
+Result 5
+[
+ URL:  https://www.cdc.gov/measles/cases-outbreaks.html
+ Title:  Measles Cases and Outbreaks | CDC
+ Summary:  From January 1 to December 31, 2019, 1,282* individual cases of measles were 
+confirmed in 31 states. This is the greatest number of cases reported in the U.S. ...
+]
+Relevant(y/n): 
+no
+Result 6
+[
+ URL:  https://www.mass.gov/info-details/covid-19-response-reporting
+ Title:  COVID-19 Response Reporting | Mass.gov
+ Summary:  Case and testing information by city/town; Contact tracing cases and outreach; 
+Individuals released from isolation (recovered); Cases and deaths in Long Term
+ ...
+]
+Relevant(y/n): 
+yes
+Result 7
+[
+ URL:  https://www.npr.org/sections/health-shots/2020/09/01/816707182/map-tracking-the-spread-of-the-coronavirus-in-the-u-s
+ Title:  Coronavirus Update: Maps And Charts For U.S. Cases And Deaths ...
+ Summary:  1 day ago ... Tens of thousands of new cases are reported daily nationwide. In the graphics 
+below, explore the trends in your state. View the data via a heat ...
+]
+Relevant(y/n): 
+yes
+Result 8
+[
+ URL:  https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+ Title:  Coronavirus COVID-19 (2019-nCoV)
+ Summary:  Case-Fatality Ratio (%) = Number recorded deaths / Number cases. US Testing 
+Rate: = total test results per 100,000 persons. The "total test results" are equal to "
+ ...
+]
+Relevant(y/n): 
+yes
+Result 9
+[
+ URL:  https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
+ Title:  Coronavirus in the U.S.: Latest Map and Case Count - The New York ...
+ Summary:  The State of the Virus. Update for Feb. 12. Case numbers continue to fall rapidly. 
+The country has averaged around 102,000 cases a day over the last week ...
+]
+Relevant(y/n): 
+yes
+Result 10
+[
+ URL:  https://pbskids.org/oddsquad/games/cases
+ Title:  Odd Squad: Cases
+ Summary:  Visit Your Profile. Your Avatar. logout. Sign In To PBS KIDS. Apps · Shop · 
+Parents · WPTD WPTD station logo. TV Times; Settings. PBS KIDS Settings. 
+Close ...
+]
+Relevant(y/n): 
+no
+=======================
+FEEDBACK SUMMARY:
+Precision:  0.6
+Still below the desired precision of  0.9
+Indexing Results...
+Parameters:
+Client Key      =        AIzaSyBI5PMmM0fdGmoTIKgSpsRiEGvKHsG0kWs
+Engine Key      =        a0c2ee796890a2fd4
+Query           =        cases coronavirus update
+Precision       =        0.9
+Google Search Results: 
+=======================
+Result 1
+[
+ URL:  https://www.worldometers.info/coronavirus/
+ Title:  Coronavirus Update (Live): 109,170,304 Cases and 2,406,714 ...
+ Summary:  Live statistics and coronavirus news tracking the number of confirmed cases, 
+recovered patients, tests, and death toll due to the COVID-19 coronavirus from ...
+]
+Relevant(y/n): 
+yes
+Result 2
+[
+ URL:  https://www.health.state.mn.us/diseases/coronavirus/situation.html
+ Title:  Situation Update for COVID-19 - Minnesota Dept. of Health
+ Summary:  Many data points are collected during case interviews. Data presented below is 
+for all cases, regardless of ...
+]
+Relevant(y/n): 
+yes
+Result 3
+[
+ URL:  https://www.mass.gov/info-details/covid-19-response-reporting
+ Title:  COVID-19 Response Reporting | Mass.gov
+ Summary:  Daily and cumulative reports on Massachusetts COVID-19 cases, testing, and 
+hospitalizations. Additional reports ... *Data updated weekly. Press ESC to clear ...
+]
+Relevant(y/n): 
+yes
+Result 4
+[
+ URL:  https://www.michigan.gov/coronavirus/
+ Title:  Coronavirus - Coronavirus
+ Summary:  Description: Coronavirus - Coronavirus. ... Our most commonly answered 
+questions can be found there, and are updated often. ... Total Confirmed Cases.
+]
+Relevant(y/n): 
+yes
+Result 5
+[
+ URL:  https://www.npr.org/sections/health-shots/2020/09/01/816707182/map-tracking-the-spread-of-the-coronavirus-in-the-u-s
+ Title:  Coronavirus Update: Maps And Charts For U.S. Cases And Deaths ...
+ Summary:  1 day ago ... View NPR's maps and graphics to see where COVID-19 is hitting hardest in the 
+U.S., which state outbreaks are growing and which are leveling ...
+]
+Relevant(y/n): 
+yes
+Result 6
+[
+ URL:  https://www.health.pa.gov/topics/disease/coronavirus/Pages/Coronavirus.aspx
+ Title:  Coronavirus in Pennsylvania
+ Summary:  Get all the latest, up-to-date information on COVID-19 from the Pennsylvania 
+Department of ... There are 892,344 positive COVID-19 cases in Pennsylvania.
+]
+Relevant(y/n): 
+yes
+Result 7
+[
+ URL:  https://www.vdh.virginia.gov/coronavirus/
+ Title:  Coronavirus
+ Summary:  NOW HIRING. Contact Tracers. The Virginia Department of Health is recruiting for 
+1,200 contractors in these areas: COVID-19 case investigator (district).
+]
+Relevant(y/n): 
+yes
+Result 8
+[
+ URL:  https://www.nh.gov/covid19/
+ Title:  Home | COVID-19
+ Summary:  All Information on the Coronavirus Covid-19 in New Hampshire. ... (data updated 
+as of February 12, 2021- 9:00 AM) ... Cases of COVID-19 at Theta Chi Fraternity 
+in Durham (September 6, 2020); NH Case Investigation and Contact Tracing ...
+]
+Relevant(y/n): 
+yes
+Result 9
+[
+ URL:  https://portal.ct.gov/coronavirus
+ Title:  Connecticut COVID-19 Response
+ Summary:  TOTAL Positive Cases: 267,337 | Tests Reported: 6,198,123 | CURRENTLY 
+Hospitalized: 674 | Deaths: 7,381 · COVID Updates Get the Latest Guidance Now
+.
+]
+Relevant(y/n): 
+yes
+Result 10
+[
+ URL:  https://coronavirus.maryland.gov/
+ Title:  Coronavirus - Maryland Department of Health
+ Summary:  Case and death data reflect Maryland residents only. Death data are presented 
+by both date of report and by date of death and are updated as amendments to ...
+]
+Relevant(y/n): 
+yes
+=======================
+FEEDBACK SUMMARY:
+Precision:  1.0
+The desired precision levels have been attained!

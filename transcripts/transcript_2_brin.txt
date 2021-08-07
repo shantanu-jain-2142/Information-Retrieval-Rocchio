@@ -1,0 +1,205 @@
+Parameters:
+Client Key      =        AIzaSyBI5PMmM0fdGmoTIKgSpsRiEGvKHsG0kWs
+Engine Key      =        a0c2ee796890a2fd4
+Query           =        brin
+Precision       =        0.9
+Google Search Results: 
+=======================
+Result 1
+[
+ URL:  https://en.wikipedia.org/wiki/Sergey_Brin
+ Title:  Sergey Brin - Wikipedia
+ Summary:  Sergey Mikhaylovich Brin is an American computer scientist and Internet 
+entrepreneur. Together with Larry Page, he co-founded Google. Brin was the 
+president ...
+]
+Relevant(y/n): 
+y
+Result 2
+[
+ URL:  https://www.davidbrin.com/
+ Title:  worlds of David Brin
+ Summary:  The official website of best-selling science fiction writer and futurist DAVID BRIN.
+]
+Relevant(y/n): 
+n
+Result 3
+[
+ URL:  https://brinandbrin.com/
+ Title:  Brin & Brin LLC – Law Firm
+ Summary:  The litigation, transactional and compliance lawyers at Brin & Brin have proven 
+success in some of the toughest Texas venues. We have represented clients in a
+ ...
+]
+Relevant(y/n): 
+No
+Result 4
+[
+ URL:  https://www.forbes.com/profile/sergey-brin/
+ Title:  Sergey Brin
+ Summary:  Sergey Brin stepped down as president of Alphabet, parent company of Google, 
+in December 2019 but remains a controller shareholder and a board member.
+]
+Relevant(y/n): 
+y
+Result 5
+[
+ URL:  https://www.postgresql.org/docs/13/brin-intro.html
+ Title:  Documentation: 13: 67.1. Introduction - PostgreSQL
+ Summary:  67.1. Introduction. 67.1.1. Index Maintenance. BRIN stands for Block Range 
+Index. BRIN ...
+]
+Relevant(y/n): 
+No
+Result 6
+[
+ URL:  https://www.brinlevinson.com/
+ Title:  Brin Levinson
+ Summary:  The Art of Brin Levinson.
+]
+Relevant(y/n): 
+No
+Result 7
+[
+ URL:  https://www.bringlass.com/
+ Title:  Brin Glass: Commercial Glass Company
+ Summary:  Brin Glass provides commercial glass services including wholesale distribution 
+and fabrication of glass and architectural aluminum products, glass service and ...
+]
+Relevant(y/n): 
+No
+Result 8
+[
+ URL:  https://www.postgresql.org/docs/9.5/brin-intro.html
+ Title:  Documentation: 9.5: Introduction - PostgreSQL
+ Summary:  BRIN stands for Block Range Index. BRIN is designed for handling very large 
+tables in which certain columns have some natural correlation with their physical
+ ...
+]
+Relevant(y/n): 
+n
+Result 9
+[
+ URL:  https://en.wiktionary.org/wiki/brin
+ Title:  brin - Wiktionary
+ Summary:  NounEdit. brin (plural brins). One of the radiating sticks of a fan. The outermost 
+are larger and longer, and are called panaches. (Can we find and add a ...
+]
+Relevant(y/n): 
+n
+Result 10
+[
+ URL:  https://www.bornandracedne.com/
+ Title:  Born & Raced In Nebraska | BRIN Running Series
+ Summary:  The Born & Raced In Nebraska Series (BRIN) consists of Nebraska's most talked 
+about 10K races each year: the Leprechaun Chase, Cornfield Cornfield, and ...
+]
+Relevant(y/n): 
+n
+=======================
+FEEDBACK SUMMARY:
+Precision:  0.2
+Still below the desired precision of  0.9
+Indexing Results...
+Parameters:
+Client Key      =        AIzaSyBI5PMmM0fdGmoTIKgSpsRiEGvKHsG0kWs
+Engine Key      =        a0c2ee796890a2fd4
+Query           =        brin mikhaylovich entrepreneur
+Precision       =        0.9
+Google Search Results: 
+=======================
+Result 1
+[
+ URL:  https://en.wikipedia.org/wiki/Sergey_Brin
+ Title:  Sergey Brin - Wikipedia
+ Summary:  Sergey Mikhaylovich Brin is an American computer scientist and Internet 
+entrepreneur. Together with Larry Page, he co-founded Google. Brin was the 
+president ...
+]
+Relevant(y/n): 
+y
+Result 2
+[
+ URL:  https://www.biography.com/business-figure/sergey-brin
+ Title:  Sergey Brin - Education, Google & Wife - Biography
+ Summary:  Dec 4, 2019 ... Sergey Brin is a computer scientist and entrepreneur. He met ... Sergey 
+Mikhaylovich Brin was born on August 21, 1973, in Moscow, Russia.
+]
+Relevant(y/n): 
+y
+Result 3
+[
+ URL:  https://satorealestate.com/dter3qs/p6uqsi.php?page=6e7175-sergey-brin-quotes
+ Title:  sergey brin quotes
+ Summary:  Dec 2, 2020 ... Quotations by Sergey Brin. Sergey Mikhaylovich Brin is an entrepreneur who 
+founded Alphabet, Inc., Google LLC and Bayshore Global ...
+]
+Relevant(y/n): 
+y
+Result 4
+[
+ URL:  https://kabstech.com/pen-vidhan-hdmsl/7cd810-sergey-brin-age
+ Title:  sergey brin age
+ Summary:  Dec 13, 2020 ... Sergey Mikhaylovich Brin is an entrepreneur who founded Alphabet, Inc., Google 
+LLC and Bayshore Global Management LLC. First Name ...
+]
+Relevant(y/n): 
+y
+Result 5
+[
+ URL:  https://www.pinterest.com/pin/358951032808108196/
+ Title:  Sergey Brin Net Worth | Net worth, Worth, Internet entrepreneur
+ Summary:  Dec 31, 2020 - Sergey Mikhaylovich Brin is an American computer scientist and 
+Internet entrepreneur. Get to know the net worth of Sergey Brin. #SergeyBrin ...
+]
+Relevant(y/n): 
+y
+Result 6
+[
+ URL:  https://sites.google.com/site/whoamiksheth/global-entrepreneurs/laerance-larry-page-and-sergey-mikhaylovich-brin
+ Title:  laerance "larry" page and sergey mikhaylovich brin - who am i?
+ Summary:  Lawrence "Larry" Page (March 26, 1973) is an American computer scientist and 
+Internet entrepreneur who is the co-founder of Google, alongside Sergey Brin.
+]
+Relevant(y/n): 
+no
+Result 7
+[
+ URL:  https://www.pinterest.com/pin/35677022018364811/
+ Title:  Sergey Mikhaylovich Brin. Age 8, with family dog, Boss. Russian ...
+ Summary:  Wiki and Biography : Sergey Brin Family , informations and more on Celebrity. 
+Internet Entrepreneur.
+]
+Relevant(y/n): 
+y
+Result 8
+[
+ URL:  https://www.celebritynetworth.com/richest-businessmen/richest-billionaires/sergey-brin-net-worth/
+ Title:  Sergey Brin Net Worth | Celebrity Net Worth
+ Summary:  Profession: Entrepreneur, Businessperson, Computer Scientist, Internet ... Early 
+Life: Sergey Mikhaylovich Brin was born August 21, 1973 in Moscow, Russia.
+]
+Relevant(y/n): 
+y
+Result 9
+[
+ URL:  https://real-leaders.com/sergey-brin-co-founder-of-google/
+ Title:  Sergey Brin, Co-founder of Google - Real Leaders
+ Summary:  Aug 30, 2017 ... Sergey Mikhaylovich Brin is a Russian-born American computer scientist, internet 
+entrepreneur, and philanthropist who, together with Larry ...
+]
+Relevant(y/n): 
+y
+Result 10
+[
+ URL:  http://packmylunchnepal.com/wp-content/xp9ush/sergey-brin-education-66af68
+ Title:  sergey brin education
+ Summary:  Dec 13, 2020 ... Sergey Mikhaylovich Brin was born on August 21, 1973, in Moscow, ... Brin is an 
+American computer scientist and internet entrepreneur, who, ...
+]
+Relevant(y/n): 
+y
+=======================
+FEEDBACK SUMMARY:
+Precision:  0.9
+The desired precision levels have been attained!
